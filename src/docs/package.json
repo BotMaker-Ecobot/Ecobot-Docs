@@ -1,0 +1,19 @@
+{
+  "name": "src",
+  "version": "0.0.1",
+  "description": "Docs for Ecobot",
+  "main": "index.js",
+  "authors": {
+    "name": "Deondre",
+    "email": "deondreenglish45@gmail.com"
+  },
+  "repository": "Ecobot-Docs/src",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
